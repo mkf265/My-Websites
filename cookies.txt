@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.concentricchicago.com	TRUE	/about-concentric-counseling/	FALSE	1999999999	RecentRedirect	1:1503529269://Ut66zRcZ5u8BT+LraGcaugubtHqRgkYH9wktCMHJc=
+www.concentricchicago.com	TRUE	/couples-marital-therapy	FALSE	1999999999	RecentRedirect	1:1503529205:vDfkd+ODYzEpvETlTMqZxFA4Im/NeZIILgRkrzhz3PM=
+www.concentricchicago.com	TRUE	/child-family-therapy	FALSE	1999999999	RecentRedirect	1:1503529200:4WUo3YiinI8kW/y1ZMkAgE3Ss8nU85sScRtUv3+ORZU=
+www.concentricchicago.com	TRUE	/counseling-parents/	FALSE	1999999999	RecentRedirect	1:1503529269://Ut66zRcZ5u8BT+LraGcaugubtHqRgkYH9wktCMHJc=
+www.concentricchicago.com	TRUE	/consulting	FALSE	1999999999	RecentRedirect	1:1503529206:AwdyJD3ydcgASmolM4jqFakMx5rTAairinMicQM2MfU=
+www.concentricchicago.com	TRUE	/	FALSE	1999999999	crumb	BbqcxNko0aKpNjEwYTY3OGVmZTNkNmI2NzM1YjEzOTAzMjNhOWIy
+www.concentricchicago.com	TRUE	/	FALSE	1999999999	ss_cid	2d059be9-aaaa-4126-879f-85318caf28de
+www.concentricchicago.com	TRUE	/	FALSE	1999999999	ss_cvisit	1503529283482
+www.concentricchicago.com	TRUE	/	FALSE	1999999999	ss_cpvisit	1503529283482
+
